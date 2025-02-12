@@ -1,10 +1,10 @@
-# Infinite Moving Grid with Fading Colors
+# Infinite Moving Grid Version 1
 
 This project creates an infinite scrolling grid animation with a dynamic color fading effect. The grid moves continuously from right to left, and random squares light up with different colors before fading back to white.
 
 ## Demo
 
-Check out the live demo: [GitHub Pages Demo](https://dancingpumpkin65.github.io/animated-grid-background/)
+Check out the live demo: [Demo](https://dancingpumpkin65.github.io/animated-grid-background-v1/)
 
 ## Features
 - **Smooth infinite scrolling**: The grid moves seamlessly without visible jumps.
@@ -25,10 +25,14 @@ Check out the live demo: [GitHub Pages Demo](https://dancingpumpkin65.github.io/
 ## Setup & Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/DancingPumpkin65/animated-grid-background.git
+   git clone https://github.com/DancingPumpkin65/animated-grid-background-v1.git
    ```
-2. Open `index.html` in a browser.
-3. Enjoy the animation!
+2. Navigate into the Project Directory:
+    ```sh
+   cd animated-grid-background-v1
+   ```
+3. Open `index.html` in a browser.
+4. Enjoy the animation!
 
 ## Customization
 You can modify the following parameters inside `script.js`:
